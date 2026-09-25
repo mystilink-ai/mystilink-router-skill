@@ -9,6 +9,7 @@ compatibility: "network optional for wiki API"
 metadata:
   mystilink:
     system: shared
+    version: 0.1.0
     about: "Routing skill over the Mystilink metaphysics skills; optional Mystilink Wiki aid for choosing a system."
     wiki_base: https://wiki.mystilink.com
     wiki_api: /api/v1
