@@ -63,6 +63,10 @@ GET https://wiki.mystilink.com/api/v1/pages/shared.concept.choosing-a-system?loc
 - 不「五个体系一起跑」
 - Wiki 调用可选；省略 `locale`/`lang` → `en`；缺译可能回落 `zh-Hans`
 
+## 版本
+
+技能版本 `0.1.0`，记录于 `SKILL.md` 的 `metadata.mystilink.version`，并见 [CHANGELOG.md](../../CHANGELOG.md)。
+
 ## 许可
 
 MIT。见 [LICENSE](../../LICENSE)。

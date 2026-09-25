@@ -63,6 +63,10 @@ GET https://wiki.mystilink.com/api/v1/pages/shared.concept.choosing-a-system?loc
 - 여러 체계를 “혹시 몰라” 동시에 실행하지 않음
 - Wiki 호출은 선택; `locale`/`lang` 생략 → `en`; 번역 없으면 `zh-Hans`로 폴백할 수 있음
 
+## 버전
+
+스킬 버전은 `0.1.0`이며, `SKILL.md`의 `metadata.mystilink.version`에 기록되고 [CHANGELOG.md](../../CHANGELOG.md)에도 정리되어 있습니다.
+
 ## 라이선스
 
 MIT. [LICENSE](../../LICENSE) 참고.

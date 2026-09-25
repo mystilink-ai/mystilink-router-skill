@@ -63,6 +63,10 @@ Voir `examples/routing-cases.md` pour des intentions utilisateur et cibles atten
 - Ne lance pas plusieurs systèmes « au cas où »
 - Les appels Wiki sont optionnels ; omettre `locale`/`lang` → `en` ; les traductions manquantes peuvent basculer vers `zh-Hans`
 
+## Version
+
+Version du skill : `0.1.0`, consignée dans `SKILL.md` sous `metadata.mystilink.version` et dans [CHANGELOG.md](../../CHANGELOG.md).
+
 ## Licence
 
 MIT. Voir [LICENSE](../../LICENSE).

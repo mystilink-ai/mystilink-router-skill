@@ -63,6 +63,10 @@ GET https://wiki.mystilink.com/api/v1/pages/shared.concept.choosing-a-system?loc
 - 「念のため複数体系を同時実行」しない
 - Wiki 呼び出しは任意；`locale`/`lang` 省略 → `en`；欠訳時は `zh-Hans` にフォールバックする場合あり
 
+## バージョン
+
+スキルのバージョンは `0.1.0`。`SKILL.md` の `metadata.mystilink.version` に記録し、[CHANGELOG.md](../../CHANGELOG.md) にも記載しています。
+
 ## ライセンス
 
 MIT。[LICENSE](../../LICENSE) を参照。

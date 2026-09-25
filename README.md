@@ -63,6 +63,10 @@ See `examples/routing-cases.md` for sample user intents and expected targets.
 - Does not run multiple systems “just in case”
 - Wiki calls are optional; omit `locale`/`lang` → `en`; missing translations may fall back to `zh-Hans`
 
+## Version
+
+Skill version `0.1.0`, recorded in `SKILL.md` under `metadata.mystilink.version` and in [CHANGELOG.md](CHANGELOG.md).
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
