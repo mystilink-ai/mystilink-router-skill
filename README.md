@@ -6,6 +6,11 @@
 
 Agent Skill that picks one Mystilink metaphysics skill (BaZi, Zi Wei, tarot, Liu Yao, or western horoscope) when the user has not named a system, asks which method fits, or mixes several traditions. It does not compute charts or draws.
 
+## Endpoints
+
+- Agent: https://www.mystilink.com
+- Theory Wiki: https://wiki.mystilink.com (API `/api/v1`)
+
 ## Delivery type
 
 This repository is an **Agent Skill** package (`SKILL.md` + references + examples). It does **not** implement the C / C++ / C# / Java / JavaScript / Python language matrix used by calculator libraries.

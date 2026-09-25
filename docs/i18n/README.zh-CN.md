@@ -6,6 +6,11 @@
 
 Agent Skill：在用户未指定体系、询问该用哪种方法、或一次请求混用多种传统时，选择一个 Mystilink 命理/占卜 skill（八字、紫微、塔罗、六爻或西洋占星）。本 skill 不负责排盘或抽牌计算。
 
+## 相关地址
+
+- Agent：https://www.mystilink.com
+- 理论 Wiki：https://wiki.mystilink.com（API `/api/v1`）
+
 ## 交付类型
 
 本仓库为 **Agent Skill** 包（`SKILL.md` + references + examples）。**不适用**计算器库所要求的 C / C++ / C# / Java / JavaScript / Python 语言矩阵。

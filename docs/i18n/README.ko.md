@@ -6,6 +6,11 @@
 
 사용자가 체계를 지정하지 않았거나, 어떤 방법이 맞는지 묻거나, 여러 전통을 한꺼번에 섞어 요청할 때 Mystilink 명리/점술 skill(팔자, 자미, 타로, 육효, 서양 점성) 중 하나를 고르는 Agent Skill입니다. 차트 계산이나 뽑기는 수행하지 않습니다.
 
+## 엔드포인트
+
+- Agent: https://www.mystilink.com
+- 이론 Wiki: https://wiki.mystilink.com (API `/api/v1`)
+
 ## 배포 유형
 
 이 저장소는 **Agent Skill** 패키지(`SKILL.md` + references + examples)입니다. 계산기 라이브러리에서 쓰는 C / C++ / C# / Java / JavaScript / Python 언어 매트릭스는 **적용되지 않습니다**.

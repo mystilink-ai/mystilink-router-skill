@@ -6,6 +6,11 @@
 
 ユーザーが体系を指定していない場合、どの方法が適しているかを尋ねた場合、または複数の伝統を混在させた場合に、Mystilink の命理／占術 skill（八字、紫微、タロット、六爻、西洋占星）のうち 1 つを選ぶ Agent Skill です。盤計算や抽選は行いません。
 
+## エンドポイント
+
+- Agent：https://www.mystilink.com
+- 理論 Wiki：https://wiki.mystilink.com（API `/api/v1`）
+
 ## 配布形態
 
 本リポジトリは **Agent Skill** パッケージ（`SKILL.md` + references + examples）です。計算機ライブラリで用いる C / C++ / C# / Java / JavaScript / Python の言語マトリクスは **適用しません**。
